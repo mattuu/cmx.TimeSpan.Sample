@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cmx.TimeSpan.Sample", "cmx.TimeSpan.Sample\cmx.TimeSpan.Sample.csproj", "{E5168F71-CA89-4455-B895-62B29E1DEDC7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cmx.TimeSpan.Sample.Tests", "cmx.TimeSpan.Sample.Tests\cmx.TimeSpan.Sample.Tests.csproj", "{B4C28D37-BE10-4F59-B7D4-48E81E7D3271}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E5168F71-CA89-4455-B895-62B29E1DEDC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5168F71-CA89-4455-B895-62B29E1DEDC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5168F71-CA89-4455-B895-62B29E1DEDC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4C28D37-BE10-4F59-B7D4-48E81E7D3271}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4C28D37-BE10-4F59-B7D4-48E81E7D3271}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4C28D37-BE10-4F59-B7D4-48E81E7D3271}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4C28D37-BE10-4F59-B7D4-48E81E7D3271}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
